@@ -1,103 +1,105 @@
 # trend-github-from-HN
 ![word_cloud_github.png](/word_cloud_github.png)
-shadowsocks/shadowsocks-ios                                 1543.0
-hannahmitt/homemirror                                       1172.0
-microsoft/vscode                                            1141.0
-raganwald/homoiconic                                        1065.0
-gorhill/ublock                                              1043.0
-churchio/onebody                                            1020.0
-pirate/sites-using-cloudflare                                914.0
-golang/go                                                    875.0
-a1studmuffin/spaceshipgenerator                              850.0
-chadselph/ooptout-chrome-extension                           820.0
-blog/1938-git-client-vulnerability-announced                 818.0
-mackyle/sqlite                                               795.0
-atech/postal                                                 715.0
-0xax/linux-insides                                           695.0
-eloston/ungoogled-chromium                                   688.0
-django/django                                                687.0
-rails/rails                                                  673.0
-getify/you-dont-know-js                                      656.0
-vhf/free-programming-books                                   635.0
-blog/2123-more-code-review-tools                             624.0
-blog/1826-follow-up-to-the-investigation-results             620.0
-oxford-cs-deepnlp-2017/lectures                              601.0
-blog/1081-instantly-beautiful-project-pages                  553.0
-matz/streem                                                  551.0
-quarnster/lime                                               547.0
-alevchuk/vim-clutch                                          546.0
-homebrew/homebrew                                            542.0
-nixxquality/webmconverter                                    542.0
-samyk/magspoof                                               541.0
-dotnet/coreclr                                               520.0
-rswier/c4                                                    518.0
-p-e-w/maybe                                                  515.0
-minimaxir/big-list-of-naughty-strings                        514.0
-donnemartin/system-design                                    508.0
-microsoft/touchdevelop                                       500.0
-fulldecent/system-bus-radio                                  499.0
-jmdugan/blocklists                                           499.0
-alex/what-happens-when                                       494.0
-vladikoff/chromeos-apk                                       487.0
-chriskiehl/gooey                                             486.0
-blog/1547-release-your-software                              485.0
-blog/1345-introducing-boxen                                  470.0
-microsoft/vscode-go                                          468.0
-getredash/redash                                             463.0
-vim/vim                                                      462.0
-terryum/awesome-deep-learning-papers                         452.0
-blog/2106-january-28th-incident-report                       451.0
-zrm/snow                                                     444.0
-gurugio/lowlevelprogramming-university                       438.0
-d3/d3                                                        438.0
-bmatzelle/gow                                                435.0
-jloughry/bancstar                                            423.0
-github/dmca                                                  420.0
-blog/968-say-hello-to-hubot                                  420.0
-microsoft/winobjc                                            419.0
-fredwu/angel_nest                                            413.0
-blog/2019-how-to-undo-almost-anything-with-git               411.0
-camdavidsonpilon/probabilistic-programming-and-bayesian-methods-for-hackers      399.0
-atlassian/localstack                                         397.0
-rgcr/m-cli                                                   392.0
-nathancahill/hammerspoon-config                              390.0
-jameysharp/corrode                                           389.0
-cantino/huginn                                               385.0
-basecamp/handbook                                            381.0
-samypesse/how-to-make-a-computer-operating-system            380.0
-blog/2188-git-2-9-has-been-released                          380.0
-canonicalltd/react-native                                    380.0
-jmechner/prince-of-persia-apple-ii                           379.0
-dularion/streama                                             374.0
-andlabs/libui                                                373.0
-joshdata/mailinabox                                          371.0
-ivaynberg/select2                                            369.0
-bolshchikov/js-must-watch                                    367.0
-antontarasenko/smq                                           367.0
-blog/1761-new-year-new-ceo-for-github                        365.0
-munificent/vigil                                             362.0
-homebrew/brew                                                361.0
-amznlabs/ion-java                                            359.0
-jschr/bootstrap-modal                                        358.0
-git/git                                                      356.0
-bitly/dablooms                                               352.0
-aymericdamien/tensorflow-examples                            347.0
-jashkenas/underscore                                         344.0
-hemanth/functional-programming-jargon                        342.0
-kshvmdn/fsql                                                 341.0
-kivy/python-for-android                                      340.0
-dotnet/roslyn                                                337.0
-happi/thebeambook                                            336.0
-zeit/hyper                                                   333.0
-citusdata/postgres_vectorization_test                        332.0
-mrkrstphr/illacceptanything                                  332.0
-tylertreat/comcast                                           330.0
-prakhar1989/awesome-courses                                  329.0
-samsquire/ideas                                              328.0
-avinassh/rockstar                                            327.0
-fastmonkeys/stellar                                          325.0
-yify/popcorn-app                                             325.0
-cjbarber/toolsofthetrade                                     321.0
-anvaka/atree                                                 321.0
-evilsocket/opensnitch                                        319.0
+|Username/Projectname                                   |score     |
+| ----------------------------------------------------- |:--------:| 
+|shadowsocks/shadowsocks-ios                            |    1543.0|
+|hannahmitt/homemirror                                  |    1172.0|
+|microsoft/vscode                                       |    1141.0|
+|raganwald/homoiconic                                   |    1065.0|
+|gorhill/ublock                                         |    1043.0|
+|churchio/onebody                                       |    1020.0|
+|pirate/sites-using-cloudflare                          |     914.0|
+|golang/go                                              |     875.0|
+|a1studmuffin/spaceshipgenerator                        |     850.0|
+|chadselph/ooptout-chrome-extension                     |     820.0|
+|blog/1938-git-client-vulnerability-announced           |     818.0|
+|mackyle/sqlite                                         |     795.0|
+|atech/postal                                           |     715.0|
+|0xax/linux-insides                                     |     695.0|
+|eloston/ungoogled-chromium                             |     688.0|
+|django/django                                          |     687.0|
+|rails/rails                                            |     673.0|
+|getify/you-dont-know-js                                |     656.0|
+|vhf/free-programming-books                             |     635.0|
+|blog/2123-more-code-review-tools                       |     624.0|
+|blog/1826-follow-up-to-the-investigation-results       |     620.0|
+|oxford-cs-deepnlp-2017/lectures                        |     601.0|
+|blog/1081-instantly-beautiful-project-pages            |     553.0|
+|matz/streem                                            |     551.0|
+|quarnster/lime                                         |     547.0|
+|alevchuk/vim-clutch                                    |     546.0|
+|homebrew/homebrew                                      |     542.0|
+|nixxquality/webmconverter                              |     542.0|
+|samyk/magspoof                                         |     541.0|
+|dotnet/coreclr                                         |     520.0|
+|rswier/c4                                              |     518.0|
+|p-e-w/maybe                                            |     515.0|
+|minimaxir/big-list-of-naughty-strings                  |     514.0|
+|donnemartin/system-design                              |     508.0|
+|microsoft/touchdevelop                                 |     500.0|
+|fulldecent/system-bus-radio                            |     499.0|
+|jmdugan/blocklists                                     |     499.0|
+|alex/what-happens-when                                 |     494.0|
+|vladikoff/chromeos-apk                                 |     487.0|
+|chriskiehl/gooey                                       |     486.0|
+|blog/1547-release-your-software                        |     485.0|
+|blog/1345-introducing-boxen                            |     470.0|
+|microsoft/vscode-go                                    |     468.0|
+|getredash/redash                                       |     463.0|
+|vim/vim                                                |     462.0|
+|terryum/awesome-deep-learning-papers                   |     452.0|
+|blog/2106-january-28th-incident-report                 |     451.0|
+|zrm/snow                                               |     444.0|
+|gurugio/lowlevelprogramming-university                 |     438.0|
+|d3/d3                                                  |     438.0|
+|bmatzelle/gow                                          |     435.0|
+|jloughry/bancstar                                      |     423.0|
+|github/dmca                                            |     420.0|
+|blog/968-say-hello-to-hubot                            |     420.0|
+|microsoft/winobjc                                      |     419.0|
+|fredwu/angel_nest                                      |     413.0|
+|blog/2019-how-to-undo-almost-anything-with-git         |     411.0|
+|camdavidsonpilon/probabilistic-programming-and-bayesian-methods-for-hackers|     399.0|
+|atlassian/localstack                                   |     397.0|
+|rgcr/m-cli                                             |     392.0|
+|nathancahill/hammerspoon-config                        |     390.0|
+|jameysharp/corrode                                     |     389.0|
+|cantino/huginn                                         |     385.0|
+|basecamp/handbook                                      |     381.0|
+|samypesse/how-to-make-a-computer-operating-system      |     380.0|
+|blog/2188-git-2-9-has-been-released                    |     380.0|
+|canonicalltd/react-native                              |     380.0|
+|jmechner/prince-of-persia-apple-ii                     |     379.0|
+|dularion/streama                                       |     374.0|
+|andlabs/libui                                          |     373.0|
+|joshdata/mailinabox                                    |     371.0|
+|ivaynberg/select2                                      |     369.0|
+|bolshchikov/js-must-watch                              |     367.0|
+|antontarasenko/smq                                     |     367.0|
+|blog/1761-new-year-new-ceo-for-github                  |     365.0|
+|munificent/vigil                                       |     362.0|
+|homebrew/brew                                          |     361.0|
+|amznlabs/ion-java                                      |     359.0|
+|jschr/bootstrap-modal                                  |     358.0|
+|git/git                                                |     356.0|
+|bitly/dablooms                                         |     352.0|
+|aymericdamien/tensorflow-examples                      |     347.0|
+|jashkenas/underscore                                   |     344.0|
+|hemanth/functional-programming-jargon                  |     342.0|
+|kshvmdn/fsql                                           |     341.0|
+|kivy/python-for-android                                |     340.0|
+|dotnet/roslyn                                          |     337.0|
+|happi/thebeambook                                      |     336.0|
+|zeit/hyper                                             |     333.0|
+|citusdata/postgres_vectorization_test                  |     332.0|
+|mrkrstphr/illacceptanything                            |     332.0|
+|tylertreat/comcast                                     |     330.0|
+|prakhar1989/awesome-courses                            |     329.0|
+|samsquire/ideas                                        |     328.0|
+|avinassh/rockstar                                      |     327.0|
+|fastmonkeys/stellar                                    |     325.0|
+|yify/popcorn-app                                       |     325.0|
+|cjbarber/toolsofthetrade                               |     321.0|
+|anvaka/atree                                           |     321.0|
+|evilsocket/opensnitch                                  |     319.0|
 
